@@ -10,6 +10,7 @@ Towards the end of the Heroku tutorial, in the "Define Config Vars" step, I coul
 *** Please tell me who you are."
 
 I had to run :
+
 git config --global user.email "user@email.com"
 
 git config --global user.name "username"
