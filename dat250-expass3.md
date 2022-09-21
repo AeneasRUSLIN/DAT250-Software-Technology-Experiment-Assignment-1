@@ -30,3 +30,21 @@ Tutorial 5 - Bulk write operations
 
 ## Experiment 2
 
+Map-reduce example
+
+There was one issue with this part. During the previous tutorials, MongoDB Compass was used. However, during in this part of the assignments, when I tried to use mapReduce, MongoDB Compass kept loading and was unresponsive. Consequently, for the rest of tha assignment, I used the online shell of MongoDB.
+
+Example 1 :
+![Experiment 2 - Map Reduce - 1](https://user-images.githubusercontent.com/95423689/191471194-0b74787d-fe7f-40b1-a53b-6d9ff4ea65e2.png)
+
+Example 2 :
+![Experiment 2 - Map Reduce - 2](https://user-images.githubusercontent.com/95423689/191471685-73d2c5e5-2086-4c62-ab9e-fda91efb7b78.png)
+
+Additional Map-reduce operation :
+![Experiment 2 - Map Reduce - 3](https://user-images.githubusercontent.com/95423689/191471793-032f4d42-05a3-4418-be5e-d0b3cb32c750.png)
+
+This operation allows us to see how much money was made for each day where an order was made.
+
+***
+
+No pending issues remains.
