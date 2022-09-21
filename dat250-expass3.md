@@ -10,7 +10,7 @@ Validation of the installation package :
 ![check installtion](https://user-images.githubusercontent.com/95423689/191469762-8c0b8281-829f-4320-99cc-bdc854d90a85.png)
 
 
-## Experiment 1
+## Experiment 1 : MongoDB CRUD operations
 
 Tutorial 1 - Insert documents
 ![Experiment 1 - Step 1 - Insert Documents](https://user-images.githubusercontent.com/95423689/191470172-71b88e64-bda5-4477-af91-02498931bf42.png)
@@ -28,7 +28,7 @@ Tutorial 5 - Bulk write operations
 ![Experiment 1 - Step 5- Bulk Write Operations](https://user-images.githubusercontent.com/95423689/191470234-ee6c269b-608a-49bb-a57c-b6aab9938037.png)
 
 
-## Experiment 2
+## Experiment 2 : Aggregation
 
 Map-reduce example
 
