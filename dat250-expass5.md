@@ -3,7 +3,7 @@
 ## Experiment 1 : Getting started
 
 When I tried to run the program, I was told that the port I was using (8080) was occupied. I tried to kill it but couldn't. Consequently, I had to specify which port to use for the program.
-In the "application.properties" in the resources folder, I wrote "server.port=9090". Then the program worked.
+In the "application.properties" file in the resources folder, I wrote "server.port=9090". Then the program worked.
 
 ## Experiment 2 : Spring Boot
 
