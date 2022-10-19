@@ -8,6 +8,10 @@ No technical problems were met during the completion of the tutorial.
 
 After having some more time to watch tutorials and working on the assignment, I was able to understand how to implement CRUD https, create methods and bind them to the clicks on the buttons.
 
+In order to test the application I used a db json database.
+To start it, use the following command : json-server --watch db.json
+Then start the application.
+
 ## Links to code
 
 Link to code of Experiment 1 : 
