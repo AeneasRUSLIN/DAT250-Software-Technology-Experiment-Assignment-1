@@ -6,8 +6,7 @@ No technical problems were met during the completion of the tutorial.
 
 ## Experiment 2: Single-page applications
 
-I was not able to fully complete the task.
-I was able to undestand how to implement CRUD https but wasn't able to make it work with the application.
+After having some more time to watch tutorials and working on the assignment, I was able to understand how to implement CRUD https, create methods and bind them to the clicks on the buttons.
 
 ## Links to code
 
@@ -15,4 +14,4 @@ Link to code of Experiment 1 :
 https://github.com/AeneasRUSLIN/Assignement-6-exp1
 
 Link to code of Experiment 2 : 
-https://github.com/AeneasRUSLIN/assignement6
+https://github.com/AeneasRUSLIN/Assignement6-Experiment2-TodoList
