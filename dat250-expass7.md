@@ -21,3 +21,6 @@ Link to code : https://github.com/AeneasRUSLIN/DAT250-Assignment7-Experiment3
 No technical problems were met during the "Publish/subscribe" tutorial.
 
 Link to code : https://github.com/AeneasRUSLIN/DAT250-Assignment7-Experiment4
+
+##
+No other pending issue remains.
